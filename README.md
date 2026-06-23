@@ -1,5 +1,6 @@
-# 💫 About Me:
-Hi there 👋<br><br>I'm a passionate developer who enjoys building innovative solutions and learning new technologies. I work with modern programming languages, frameworks, and tools to create efficient, scalable, and user-friendly applications.<br><br>🔹 Interested in software development, open-source projects, and problem-solving<br>🔹 Continuously learning and improving my skills<br>🔹 Open to collaboration on exciting projects<br><br>Feel free to explore my repositories and connect with me!<br>
+# Developer | Problem Solver | Turning coffee into clean code.
+# About Me:
+I'm a passionate developer who enjoys building innovative solutions and learning new technologies. I work with modern programming languages, frameworks, and tools to create efficient, scalable, and user-friendly applications.<br><br>🔹 Interested in software development, open-source projects, and problem-solving<br>🔹 Continuously learning and improving my skills<br>🔹 Open to collaboration on exciting projects<br><br>Feel free to explore my repositories and connect with me!<br>
 
 
 ## 🌐 Socials:
