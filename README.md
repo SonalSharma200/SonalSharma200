@@ -1,4 +1,4 @@
-# HEY ! ITS ME SONAL SHARMA
+# SONAL SHARMA | DEVELOPER | OPEN SOURCE LEARNER
 # 💫 About Me:
 👨‍💻 Passionate developer who loves building projects and learning new technologies.<br>🚀 Turning ideas into code and continuously improving my skills.<br>💻 Software enthusiast focused on creating useful and innovative solutions.<br>🌱 Always learning, always building, always growing.<br>⚡ Coding, problem-solving, and exploring new technologies every day.<br>🔥 Developer passionate about clean code and real-world impact.
 
